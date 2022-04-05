@@ -4,8 +4,9 @@ body{
 #carouselExampleIndicators{
     justify-content: center;
 }
-#carousel-item{
-    align-items: center;
+#carousel-item > img{
+    width: inherit;
+    margin: auto;
 }
 /* Estilo videos */
 .muestra{
@@ -31,4 +32,9 @@ body{
 }
 h1{
     margin-bottom: 5%;
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    margin: 20px;
 }
