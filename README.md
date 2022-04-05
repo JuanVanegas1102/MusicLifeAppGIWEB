@@ -1,5 +1,7 @@
 # MusicLifeAppGIWEB
 
+Desarrollado por Diego Gamez y Juan Vanegas
+
 Proyecto Frontend desarrollado por medio del framework Bootstrap 5.1.3 y 4.0
 
 Music Life App, es una pagina web la cual presenta canciones segun el genero al usuario, con informacion sobre los artistas, el nombre y la duracion de la misma.
